@@ -1,7 +1,7 @@
 # [Portfolio](https://esanch.github.io/) content for Elizabeth Earl
 <br>
 
-#### 2 projects will be implemented in the comming weeks as the topic for such projects is yet to be finalized
+#### 2 projects will be implemented in the coming weeks as the topic for such projects is yet to be finalized
 ***
 <br>
 
