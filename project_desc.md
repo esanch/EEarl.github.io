@@ -12,11 +12,13 @@
 2. #### Disney+ & reviews:
   - Disney implamented programs such as Magic Key and Disney+ as a result of the closure caused by COVID 19 how this impacted people's opinion of Disney is investigated in this projects. Suggestions on what Disney could do to maintain an postive image is discussed. 
 ***
+
 <br>
 
 #### COVID's impact on restaurants
   - With covid causing a mass closure of in person experiences restaurants suffered a major loss with lower cliental. This project goes in depth how COVID caused restaurants to come up with delivery method to keep their business afloat. Among these delivery systems a program created Eat Out to Help Out was introduced and its effects are analyzed.
 ***
+
 <br>
 
 ### Sports
@@ -26,11 +28,13 @@
 2. #### Premier League arrests
   - Moving from player performances this project analyzes how many arrests a team has in their fanbase. This project takes top teams and checks how likely a fan is to be arrested whether the team they support is playing at home or away. This gives an insight on the attitude of certain regions in England as football fans. 
 ***
+
 <br>
 
 #### Amazon's top products
   - Basing information taken from top products sold by Amazon this project aims to create a model for Amazon to create target ads. Based on the best selling products Amazon can use this information to entice a specific type of consumers to buy their products over competitors through target ads. 
 ***
+
 <br>
 
 ### Case Studies
