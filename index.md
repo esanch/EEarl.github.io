@@ -7,34 +7,34 @@
 <br>
 
 ### Disney Projects
-[<img src="images/disney.jpg?raw=true"/>](https://github.com/esanch/DisneyRevenue)
-- [Disneyland Revenue & Reviews](https://github.com/esanch/DisneyRevenue)
-[<img src="images/disReview.jpg?raw=true"/>](https://github.com/esanch/DisneyReviews)
-- [(Continuation) Disneyland Reviews and online services](https://github.com/esanch/DisneyReviews)
+[<img src="images/disney.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/DisneyRevenue)
+- [Disneyland Revenue & Reviews](https://github.com/esanch/Projects/tree/main/DisneyRevenue)
+[<img src="images/disReview.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/DisneyReviews)
+- [(Continuation) Disneyland Reviews and online services](https://github.com/esanch/Projects/tree/main/DisneyReviews)
 
 <br>
 
 ### COVID's impact on resturants 
-[<img src="images/food.jpg?raw=true"/>](https://github.com/esanch/covidResturants)
-- [COVID v Food Service](https://github.com/esanch/covidResturants)
+[<img src="images/food.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/covidResturants)
+- [COVID v Food Service](https://github.com/esanch/Projects/tree/main/covidResturants)
 
 <br>
 
 ### Sports
-[<img src="images/players.jpg?raw=true"/>](https://github.com/esanch/premPlayers)
-- [Player performances](https://github.com/esanch/premPlayers)
+[<img src="images/players.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/premPlayers)
+- [Player performances](https://github.com/esanch/Projects/tree/main/premPlayers)
 
-[<img src="images/prem.jpg?raw=true"/>](https://github.com/esanch/premArrest)
-- [Prem League arrests](https://github.com/esanch/premArrest)
+[<img src="images/prem.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/premArrest)
+- [Prem League arrests](https://github.com/esanch/Projects/tree/main/premArrest)
 
 <br>
 
 ### Top Products
-[<img src="images/amazon.jpg?raw=true"/>](https://github.com/esanch/amazonTrends)
-- [Amazon trends](https://github.com/esanch/amazonTrends)
+[<img src="images/amazon.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/amazonTrends)
+- [Amazon trends](https://github.com/esanch/Projects/tree/main/amazonTrends)
 
 ### Case Studies
-[<img src="images/titanic.jpg?raw=true"/>](https://github.com/esanch/titanic)
-- [Titanic survival](https://github.com/esanch/titanic)
-[<img src="images/baby.jpg?raw=true"/>](https://github.com/esanch/babyTarger)
-- [Baby registry ](https://github.com/esanch/babyTarget)
+[<img src="images/titanic.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/titanic)
+- [Titanic survival](https://github.com/esanch/Projects/tree/main/titanic)
+[<img src="images/baby.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/babyTarget)
+- [Baby registry ](https://github.com/esanch/Projects/tree/main/babyTarget)
