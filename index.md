@@ -9,7 +9,7 @@
 ### Disney Projects
 [<img src="images/disney.jpg?raw=true"/>](https://github.com/esanch/DisneyRevenue)
 - [Disneyland Revenue & Reviews](https://github.com/esanch/DisneyRevenue)
-[<img src="images/disReviews.jpg?raw=true"/>](https://github.com/esanch/DisneyReviews)
+[<img src="images/disReview.jpg?raw=true"/>](https://github.com/esanch/DisneyReviews)
 - [(Continuation) Disneyland Reviews and online services](https://github.com/esanch/DisneyReviews)
 
 <br>
