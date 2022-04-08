@@ -1,7 +1,7 @@
 ## Elizabeth's Projects 
 <br>
 
-#### 2 projects to be added in the comming weeks as topics have yet to be finalized
+#### 2 projects to be added in the coming weeks as topics have yet to be finalized
 - [Project 2]()
 - [Project 3]()
 <br>
