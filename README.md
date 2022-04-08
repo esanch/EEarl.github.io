@@ -10,7 +10,7 @@
   - Finding trends in Disney's revenue and how COVID 19 impacted such trends. After Disney's closure (due to COVID 19) programs like Magic Key were implemented and how this program affected Disney's company image is impacted.
 
 2. #### Disney+ & reviews:
-  - Disney implamented programs such as Magic Key and Disney+ as a result of the closure caused by COVID 19 how this impacted people's opinion of Disney is investigated in this projects. Suggestions on what Disney could do to maintain an postive image is discussed. 
+  - Disney implemented programs such as Magic Key and Disney+ because of the closure caused by COVID 19 how this impacted people's opinion of Disney is investigated in this project. Suggestions on what Disney could do to maintain a positive image is discussed. 
 ***
 
 <br>
@@ -22,7 +22,7 @@
 <br>
 
 ### Sports
-1. #### Footballer's performace
+1. #### Footballer's performance
   - This project analyzes premier league footballers’ performance in previous years and determines how much this impact’s an overall team’s ability to end up a top team on the league table. Abilities are based on abilities such as goals scored at home and away as well as how often a player is played versus being on the bench. 
 
 2. #### Premier League arrests
@@ -32,7 +32,7 @@
 <br>
 
 #### Amazon's top products
-  - Basing information taken from top products sold by Amazon this project aims to create a model for Amazon to create target ads. Based on the best selling products Amazon can use this information to entice a specific type of consumers to buy their products over competitors through target ads. 
+  - Basing information taken from top products sold by Amazon this project aims to create a model for Amazon to create target ads. Based on the bestselling products Amazon can use this information to entice a specific type of consumers to buy their products over competitors through target ads. 
 ***
 
 <br>
@@ -43,4 +43,5 @@
 
 2. #### Target's Baby registry
   - The Target Baby Registry is a case study that takes information on those Target guests who already have baby registries created. It takes the shopping trends outside the baby registry and targets those with similar shopping trends as someone who will be/is pregnant and pushes them to create a baby registry. 
+
 
