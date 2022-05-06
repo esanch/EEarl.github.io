@@ -2,7 +2,7 @@
 
 
 <br> 
-Send me an email: <a href=mailto:arlene.earl@aol.co.uk>arlene.earl.aol.co.uk</a>
+Send me an email: <a href="mailto:arlene.earl@aol.co.uk"> arlene.earl.aol.co.uk </a>
 <br>
 
 ---
