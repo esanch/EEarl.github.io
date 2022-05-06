@@ -6,6 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://esanch.github.io/project_desc">Project's descriptions</a>
   <br>
   <a href="https://esanch.github.io/about_me">About Me</a>
+  <br>
+  <a href="https://esanch.github.io/contact_me">Contact Me</a>
   
  
 theme: jekyll-theme-minimal
