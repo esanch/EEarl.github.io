@@ -2,7 +2,7 @@
 <br>
 
 #### 1 additional project will be implemented in the coming weeks as the topic for such projects is yet to be finalized
-***
+
 <br>
 
 #### Amazon's top toys
