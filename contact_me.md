@@ -3,8 +3,6 @@
 ---
 
 <form action="mailto:arlene.earl@aol.co.uk" method="POST">
-
-<input type=”text” size=”19″ name=”ContactName”><br><br>
 <label>
     Your Email:
     <input type="email" name="_replyto">
@@ -15,7 +13,7 @@
     <textarea name="message"></textarea>
  </label>
   <br> 
- <input type=”submit” value=”Send”>
+    <buttom type=”submit”>Send</button>
  </form>
 
 
