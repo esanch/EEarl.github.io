@@ -8,8 +8,9 @@ Send me an email: <a href=mailto:arlene.earl@aol.co.uk>arlene.earl.aol.co.uk</a>
 ---
 
 <br> 
-Reach out by phone: <p><a href="tel:+447375656341">+44 7375656341</a></p>
-***note international calling fees may apply***
+Reach out by phone: <a href="tel:+447375656341">+44 7375656341</a>
+
+<b>***note international calling fees may apply**</b>
 <br>
 
 ---
