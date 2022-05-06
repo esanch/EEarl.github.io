@@ -1,9 +1,14 @@
 ## Elizabeth's Projects 
 <br>
 
-#### 2 projects to be added in the coming weeks as topics have yet to be finalized
-- [Project 2]()
+#### 1 project to be added in the coming weeks as topics have yet to be finalized
 - [Project 3]()
+<br>
+
+### Amazon's top toys
+[<img src="images/Itoys.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/TopToys)
+- [Influenced toy sales ](https://github.com/esanch/Projects/tree/main/TopToys)
+
 <br>
 
 ### Disney Projects
