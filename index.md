@@ -1,10 +1,6 @@
 ## Elizabeth's Projects 
 <br>
 
-#### 1 project to be added in the coming weeks as topics have yet to be finalized
-- [Project 3]()
-<br>
-
 ### Amazon's top toys
 [<img src="images/Itoys.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/TopToys)
 - [Influenced toy sales ](https://github.com/esanch/Projects/tree/main/TopToys)
@@ -37,6 +33,11 @@
 ### Top Products
 [<img src="images/amazon.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/amazonTrends)
 - [Amazon trends](https://github.com/esanch/Projects/tree/main/amazonTrends)
+
+<br>
+### Happiness
+[<img src="images/happiness.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/Happiness)
+- [Happiness impact](https://github.com/esanch/Projects/tree/main/Happiness)
 
 ### Case Studies
 [<img src="images/titanic.jpg?raw=true"/>](https://github.com/esanch/Projects/tree/main/titanic)
