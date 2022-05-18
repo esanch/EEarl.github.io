@@ -1,12 +1,6 @@
 # [Portfolio](https://esanch.github.io/) content for Elizabeth Earl
 <br>
 
-#### Amazon's top toys
-  - With social media becoming a major influence in the world this project dives deeper on how social media has affected toy sales. This project specifically focuses influencers and the type of products they are promoting. Are influencers trust worth and their products worth the hype?
-***
-
-<br>
-
 ### Disney Projects:
 1. #### Disney Revenue:
   - Finding trends in Disney's revenue and how COVID 19 impacted such trends. After Disney's closure (due to COVID 19) programs like Magic Key were implemented and how this program affected Disney's company image is impacted.
@@ -33,7 +27,12 @@
 
 <br>
 
-#### Amazon's top products
+### Amazon
+1. #### Amazon's top toys
+  - With social media becoming a major influence in the world this project dives deeper on how social media has affected toy sales. This project specifically focuses influencers and the type of products they are promoting. Are influencers trust worth and their products worth the hype?
+***
+
+2. #### Amazon's top products
   - Basing information taken from top products sold by Amazon this project aims to create a model for Amazon to create target ads. Based on the bestselling products Amazon can use this information to entice a specific type of consumers to buy their products over competitors through target ads. 
 ***
 
