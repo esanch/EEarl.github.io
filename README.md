@@ -1,10 +1,6 @@
 # [Portfolio](https://esanch.github.io/) content for Elizabeth Earl
 <br>
 
-#### 1 additional project will be implemented in the coming weeks as the topic for such projects is yet to be finalized
-***
-<br>
-
 #### Amazon's top toys
   - With social media becoming a major influence in the world this project dives deeper on how social media has affected toy sales. This project specifically focuses influencers and the type of products they are promoting. Are influencers trust worth and their products worth the hype?
 ***
@@ -39,6 +35,12 @@
 
 #### Amazon's top products
   - Basing information taken from top products sold by Amazon this project aims to create a model for Amazon to create target ads. Based on the bestselling products Amazon can use this information to entice a specific type of consumers to buy their products over competitors through target ads. 
+***
+
+<br>
+
+#### Happiness
+  - Happiness can be defined in many way, so what truly brings in happiness? This project focuses on individual happiness and how factors such as politics (and terror attacks) impact such happiness. This project also analyzes whether happiness can impact trends/moarkets such as real estate. 
 ***
 
 <br>
